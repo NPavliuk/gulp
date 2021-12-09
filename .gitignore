@@ -1,0 +1,7 @@
+dist/
+node_modules/
+
+.editorconfig
+.idea
+.env
+**.DS_Store
